@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the assignments for the course along with guidelines
+  and suggestions for attendance and participation, in-class presentations, close
+  reading, and writing assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -25,7 +28,7 @@ FILES
 Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing process\]
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn01))
+({{% resource_link 6dd4af2b-93ba-8544-2a8f-3f7f94f7d2d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -34,7 +37,7 @@ Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing pro
 "Much Ado" essay instructions (due LEC #8)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn02))
+({{% resource_link 77c6227a-e0ff-7eb0-eca3-30bf87fe7a4e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +46,7 @@ Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing pro
 "Othello" essay prompt (due LEC #13)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn03))
+({{% resource_link b3cfc1d9-aa49-7c69-415c-616a7c06f83d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +55,7 @@ Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing pro
 "Henry IV" historical materials (Reading assignments for LEC #15 and LEC #16)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn04))
+({{% resource_link 9a5c5f4d-2e9a-68bc-a829-af094263be0b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +64,7 @@ Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing pro
 "Henry IV" essay assignment (due LEC #17)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn05))
+({{% resource_link d8824459-4100-7701-c345-06a37a3a018a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +73,7 @@ Analysis prompt (due LEC #4) \[Helpful vocabulary for close reading; writing pro
 Annotated bibliography guidelines (due LEC #20)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn07))
+({{% resource_link 08f0d8bd-1015-bdeb-2ff2-2f159fcffe94 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +82,7 @@ Annotated bibliography guidelines (due LEC #20)
 Comparative essay (due 1 day after LEC #23)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn08))
+({{% resource_link b48117d4-05ed-aa95-392e-18891a9931d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +91,7 @@ Comparative essay (due 1 day after LEC #23)
 Final self-assessment prompt (due LEC #25)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn09))
+({{% resource_link 1e2078f9-35a5-b15b-a98f-ca620e93e553 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -97,7 +100,7 @@ Final self-assessment prompt (due LEC #25)
 Henry V feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn10))
+({{% resource_link b26c7e7c-c9b0-1056-6ed2-f822933b30b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +109,7 @@ Henry V feedback
 Coriolanus feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn11))
+({{% resource_link 727adedc-8f1b-a7b4-e550-272f105208dc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +118,7 @@ Coriolanus feedback
 The "Winter's Tale" feedback
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn12))
+({{% resource_link d8ca7c9e-14f2-b01f-c229-e86bae2f75d8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,8 +154,8 @@ This paper allows you to address a theme in one or more of the assigned readings
 Presentation Feedback
 ---------------------
 
-Henry V ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn13))
+Henry V ({{% resource_link 53a16441-aaab-f2f8-e3ff-84a0919746b2 "PDF" %}})
 
-Coriolanus ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn14))
+Coriolanus ({{% resource_link bf14a515-683f-2fe3-5645-896df2c30d69 "PDF" %}})
 
-The Winter's Tale ([PDF]({{< baseurl >}}/resources/mit21l_010f10_assn15))
+The Winter's Tale ({{% resource_link 9474e9d9-cfdb-1971-ca40-99a933f38910 "PDF" %}})
