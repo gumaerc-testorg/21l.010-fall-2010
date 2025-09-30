@@ -44,7 +44,7 @@ Self-assessment due
 
 Contextualizing speech; participating in dialogue.
 
-Madden, John. [*Shakespeare in Love*](http://www.imdb.com/title/tt0138097/). (1998).
+Madden, John. {{% resource_link "1df882e4-7094-4f50-905c-13164fa15b1e" "*Shakespeare in Love*" %}}. (1998).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -67,7 +67,7 @@ Revision of self-assessment for correctness of prose, if necessary, due
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Branagh, Kenneth. [*Much Ado About Nothing*](http://www.imdb.com/title/tt0107616/). (1993).
+Branagh, Kenneth. {{% resource_link "374fb06a-6081-4286-aff8-d20f6ed5e21e" "*Much Ado About Nothing*" %}}. (1993).
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
