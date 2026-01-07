@@ -149,7 +149,7 @@ This brief essay will summarize your efforts in absorbing research materials, de
 
 This paper allows you to address a theme in one or more of the assigned readings, using your research into issues in nineteenth-century science—natural history or early social science—as a framework. By the time you finish the project, you will most likely have refined your topic considerably, and it may be that you are thinking of "science" in new ways or even have found that it is no longer necessary to your project, as you originally imagined it. Since you will be working independently, though with much guidance, the finished product will not fit into a preconceived conceptual box. You will be graded on the quality of your insight into the text and supporting materials, the effectiveness of the logical structure and prose, and your mastery of documentation and the tools of research.
 
-{{% resource_link "a6d7f104-a67f-4259-a512-81f1d9d66337" "Research Tool: for Group Annotated Bibliography" %}} (due 1 day after LEC #19)
+[Research Tool: for Group Annotated Bibliography](http://libguides.mit.edu/writingshakespeare) (due 1 day after LEC #19)
 
 Presentation Feedback
 ---------------------
